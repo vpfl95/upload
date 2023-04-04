@@ -8,6 +8,10 @@ public class UploadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UploadApplication.class, args);
+
 	}
 
+
 }
+
+
